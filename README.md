@@ -4,10 +4,10 @@
 ## Brief
 
 1.	Try to fully complete the assessment but if you get stuck move on to the next part.
-2.	Try and use Bootstrap Version 4 (https://getbootstrap.com/) for the layouts. This will help with device responsiveness.
+2.	Use Bootstrap Version 4 (https://getbootstrap.com/) for the layouts. This will help with device responsiveness.
 3.	All icons used should be from font awesome (https://fontawesome.com/)
 4.	In terms of fonts feel free to use the font of your choice in the exercises.
-5.	Please use only ES6 Javascript. No libraries or frameworks such as React, Angular or jQuery are allowed. We want to see your vanilla Javascript skill level.
+5.	Only ES6 Javascript. No libraries or frameworks such as React, Angular or jQuery are allowed. We want to see your vanilla Javascript skill level.
 6.	The completed code should match the concepts below as much as possible, we understand there may be differences between the font used in the concept and the font file and this is ok. The font used throughout the mockup is Montserrat and can be found on Google Fonts here: https://fonts.google.com/specimen/Montserrat
 7.	If you have any questions about the assessment please email us before you start.
 
