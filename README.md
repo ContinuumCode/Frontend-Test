@@ -23,7 +23,7 @@ Recreate a single page with the following requirements:
 5.	Accordion - The accordion should be built with html, css and Javascript only (No libraries or frameworks). All accordions should be closed on page load. When clicking on an accordion, it should smoothly slide down and back up when closed. When a second accordion is clicked, it should slide down and the previous open accordion should slide up and close. Add a transition effect to the accordion icon when activated to give it some personality. It should start as a down chevron and change to an x when open and reverse when closed.
 
 Please see concept below or view in concept folder:
-![Exercise](https://github.com/ContinuumCode/Frontend-Code-Test/blob/master/Concepts/frontend-dev-task.jpg)
+![Exercise](https://github.com/ContinuumCode/Frontend-Test/blob/master/concepts/code-test.jpg)
  
 ### Requirements
 
